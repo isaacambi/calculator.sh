@@ -18,3 +18,9 @@
 `|` Row1   `|` Data    `|`
 
 ![image](awssignin.png)
+
+
+```
+This is how to use the three backtics to make your code copyable
+```
+
