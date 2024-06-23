@@ -17,4 +17,4 @@
 
 `|` Row1   `|` Data    `|`
 
-![image](awssignin)
+![image](awssignin.png)
