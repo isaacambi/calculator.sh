@@ -19,7 +19,9 @@
 
 ![image](awssignin.png)
 
-
+```
+git clone https://github.com/isaacambi/Static-Website.git
+```
 ```
 This is how to use the three backtics to make your code copyable
 ```
